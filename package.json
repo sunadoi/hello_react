@@ -1,0 +1,13 @@
+{
+  "name": "hello_react",
+  "version": "1.0.0",
+  "description": "Hello React",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "webpack": "webpack -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
